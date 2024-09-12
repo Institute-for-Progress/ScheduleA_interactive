@@ -1,26 +1,24 @@
 {
-    "id": "49112F39",
-    "path": "~/GitHub/ScheduleA_interactive/app.R",
-    "project_path": "app.R",
+    "id": "00622638",
+    "path": "C:/Users/jerem/Desktop/H1B simulator/h1b.R",
+    "project_path": null,
     "type": "r_source",
-    "hash": "0",
+    "hash": "2494953128",
     "contents": "",
     "dirty": false,
-    "created": 1704884055692.0,
+    "created": 1726156759315.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "224,4",
-        "scrollLine": "207"
+        "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1706219004,
+    "lastKnownWriteTime": 1726155242,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1706219004,
+    "last_content_update": 1726155242,
     "read_only": false,
     "read_only_alternatives": []
 }
