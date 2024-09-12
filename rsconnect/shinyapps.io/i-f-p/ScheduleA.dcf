@@ -1,0 +1,12 @@
+name: ScheduleA
+title: ScheduleA
+username: i-f-p
+account: i-f-p
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10951882
+bundleId: 8184567
+url: https://i-f-p.shinyapps.io/ScheduleA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
